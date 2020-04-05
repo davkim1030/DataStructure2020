@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 int		cnt[3];		// 원판 카운틀를 위한 배열
 
